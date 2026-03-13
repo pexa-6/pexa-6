@@ -1,6 +1,39 @@
 # 💫 About Me:
-Hi there 👋 I'm a developer specializing in Python and Kotlin.  <br>I build Telegram bots (Telebot), desktop applications (PyQt6), and Android apps with Kotlin.  <br><br>🚀 I enjoy turning ideas into real projects, writing clean code, and creating interfaces that feel intuitive.  <br>🌱 Always learning, always growing — looking for new challenges and opportunities.
+Embedded Developer · 1 year of experience
+I specialize in building practical tools and bots using Python — from GUI applications to Telegram services and embedded solutions.
+Based in Ukraine 🇺🇦.
 
+Skills
+
+Languages & Frameworks:
+Python, PyQt6, SQLite3
+
+Bots:
+Telebot (pyTelegramBotAPI), Aiogram — creating convenient chatbots and automation tools.
+
+DevOps / Infrastructure:
+Docker, Kubernetes, Linux — able to containerize applications, configure basic orchestration, and deploy services in Linux environments.
+
+Practical Approach:
+GUI development, database integration, API integration, and application deployment.
+
+What I Can Offer
+
+Rapid development of working prototypes (GUI applications or bots) and turning them into stable solutions.
+
+Debugging and automating deployments using containers.
+
+Writing clean, maintainable code and clear documentation.
+
+About Me
+
+I enjoy digging deep into both hardware and software, learning embedded development, and continuously improving my DevOps skills.
+
+Contacts
+
+GitHub: github.com/pexa6
+Telegram: @pexa6
+Email: your.email@yourprofile
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/@pe_xa_6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:andriy.tsmikaylo@gmail.com) 
