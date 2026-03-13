@@ -48,8 +48,8 @@ Email: andriy.tsmikaylo@gmail.com ✉️
 ![PyQt6](https://img.shields.io/badge/PyQt6-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
 ![Telebot](https://img.shields.io/badge/Telebot-Telegram%20Bots-blue?style=for-the-badge&logo=telegram)
 ![Aiogram](https://img.shields.io/badge/Aiogram-Telegram%20Bots-2CA5E0?style=for-the-badge&logo=telegram)
@@ -63,6 +63,8 @@ Email: andriy.tsmikaylo@gmail.com ✉️
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pexa-6&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br><br>
