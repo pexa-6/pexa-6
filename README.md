@@ -21,17 +21,17 @@ What I Can Offer ⚡<br>
 
 Rapid development of working prototypes (GUI applications or bots) and turning them into stable solutions 🏎️.<br>
 
-Debugging and automating deployments using containers 🐞➡️🤖.<br>
+Debugging and automating deployments using containers 🐞.<br>
 
 Writing clean, maintainable code and clear documentation ✨.<br>
 
 About Me 🧠<br>
 
-I enjoy digging deep into both hardware and software, learning embedded development, and continuously improving my DevOps skills 🔍🔩.<br>
+I enjoy digging deep into both hardware and software, learning embedded development, and continuously improving my DevOps skills 🔍.<br>
 
 Contacts 📫<br>
 
-GitHub: github.com/pexa6 🐙<br>
+GitHub: github.com/pexa-6 🐙<br>
 Telegram: @pe_xa_6 💬<br>
 Email: andriy.tsmikaylo@gmail.com ✉️
 
