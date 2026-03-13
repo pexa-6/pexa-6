@@ -1,6 +1,6 @@
 # 💫 About Me:
 Embedded Developer · 1 year of experience 🚀<br>
-I specialize in building practical tools and bots using Python — from GUI applications to Telegram services and embedded solutions.🛠️<br>
+I specialize in building practical tools and bots using Python — from GUI applications to Telegram services and embedded solutions 🛠️.<br>
 Based in Ukraine 🇺🇦.<br>
 
 Skills 🧰<br>
@@ -9,25 +9,25 @@ Languages & Frameworks: 🧩<br>
 Rust 🦀, Python 🐍, PyQt6 🖥️, SQLite3 🗄️<br>
 
 Bots: 🤖<br>
-Telebot (pyTelegramBotAPI), Aiogram — creating convenient chatbots and automation tools.📨<br>
+Telebot (pyTelegramBotAPI), Aiogram — creating convenient chatbots and automation tools 📨.<br>
 
 DevOps / Infrastructure: ⚙️<br>
-Docker 🐳, Kubernetes ☸️, Linux 🐧 — able to containerize applications, configure basic orchestration, and deploy services in Linux environments.💾<br>
+Docker 🐳, Kubernetes ☸️, Linux 🐧 — able to containerize applications, configure basic orchestration, and deploy services in Linux environments 💾.<br>
 
 Practical Approach: 🔧<br>
-GUI development, database integration, API integration, and application deployment.🔗<br>
+GUI development, database integration, API integration, and application deployment 🔗.<br>
 
 What I Can Offer ⚡<br>
 
-Rapid development of working prototypes (GUI applications or bots) and turning them into stable solutions.🏎️<br>
+Rapid development of working prototypes (GUI applications or bots) and turning them into stable solutions 🏎️.<br>
 
-Debugging and automating deployments using containers.🐞➡️🤖<br>
+Debugging and automating deployments using containers 🐞➡️🤖.<br>
 
-Writing clean, maintainable code and clear documentation.✨<br>
+Writing clean, maintainable code and clear documentation ✨.<br>
 
 About Me 🧠<br>
 
-I enjoy digging deep into both hardware and software, learning embedded development, and continuously improving my DevOps skills.🔍🔩<br>
+I enjoy digging deep into both hardware and software, learning embedded development, and continuously improving my DevOps skills 🔍🔩.<br>
 
 Contacts 📫<br>
 
